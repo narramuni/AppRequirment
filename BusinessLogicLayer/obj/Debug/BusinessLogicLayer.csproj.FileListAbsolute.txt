@@ -1,0 +1,15 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\AppRequirment\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
